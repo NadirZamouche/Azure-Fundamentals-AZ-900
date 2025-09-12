@@ -11,7 +11,7 @@ This repository contains Study notes and Practise test answers for each section.
 - Azure pricing & support policies
 - Cost Management and Service Level Agreements (SLAs)
 
-<img width="740" height="295" alt="path" src="https://github.com/user-attachments/assets/54da2934-5650-4bdf-a37d-36df2f403464" />
+<img width="740" height="295" alt="path" src="https://github.com/user-attachments/assets/24d62f06-e245-4a3e-870f-b3509b026fc5" />
 
 ## Overview
 
