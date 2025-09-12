@@ -1,0 +1,4 @@
+- Compute power.
+- Storage.
+- Networking.
+- Analytics.

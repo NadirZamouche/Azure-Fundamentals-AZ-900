@@ -1,0 +1,6 @@
+1. Vertical
+2. Up
+3. Down
+4. In
+5. Out
+6. Horizontal

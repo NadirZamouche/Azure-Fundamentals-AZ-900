@@ -1,0 +1,8 @@
+1. Application & Data
+2. Runtime
+3. Middleware
+4. Operating System
+5. Virtualization
+6. Servers
+7. Networking
+8. Storage
