@@ -16,6 +16,6 @@ This repository contains Study notes and Practice test answers for each section.
 ## Overview
 
 - ▶️ [Microsoft Azure Fundamentals (AZ-900) Full Course](https://img.shields.io/badge/YouTube-Playlist-red?logo=youtube&logoColor=white)
-- 🌐 [Adam Marczak'q website](https://marczak.io/az-900/)
+- 🌐 [Adam Marczak's website](https://marczak.io/az-900/)
 
 ⭐ If you’re also learning Azure, feel free to fork this repo or share your own progress!
