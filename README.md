@@ -1,4 +1,4 @@
-# Azure-Fundamentals AZ-900 <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="25"/>
+# Azure-Fundamentals AZ-900 <img src="https://go-skill-icons.vercel.app/api/icons?i=azure" height="30"/>
 
 This repository contains Study notes and Practice test answers for each section.
 
